@@ -27,7 +27,7 @@ Projekt ma na celu analizę danych dotyczących urazów serca oraz budowę model
    - Otwórz plik `PAD_PROJECT.ipynb` w Jupyter Notebook lub JupyterLab.
    - Wykonaj wszystkie komórki w odpowiedniej kolejności.
 
-3. **Dashboard (jeśli dotyczy):**
+3. **Dashboard:**
    - Wykorzystano bibliotekę Dash oraz Dash Bootstrap Components do stworzenia dashboardu.
    - Aby uruchomić dashboard, użyj:
      ```bash
