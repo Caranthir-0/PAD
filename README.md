@@ -33,7 +33,6 @@ Projekt ma na celu analizę danych dotyczących urazów serca oraz budowę model
      ```bash
      python app.py
      ```
-     (plik `app.py` powinien znajdować się w folderze projektu).
 
 ---
 
