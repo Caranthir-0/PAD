@@ -1,0 +1,10 @@
+dash
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+dash-bootstrap-components
+scipy
