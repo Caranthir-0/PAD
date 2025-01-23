@@ -40,7 +40,7 @@ Projekt ma na celu analizę danych dotyczących urazów serca oraz budowę model
 ## Struktura projektu
 
 - `PAD_PROJECT.ipynb`: Główny notebook zawierający całą analizę, modelowanie i wizualizacje.
-- `data/`: Folder na dane (brak plików danych w notebooku, dane muszą być dostarczone).
+- `data/`: Folder na dane.
 - `requirements.txt`: Lista wymaganych bibliotek do uruchomienia projektu.
 - `README.md`: Dokumentacja projektu.
 
